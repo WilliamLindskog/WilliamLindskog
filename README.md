@@ -1,10 +1,10 @@
-### Hi there 👋, I am glad you're here!
+# :penguin: William Lindskog
 
-#### I am William, a PhD in Federated Machine Learning - Welcome to my GitHub!
+**` PhD Federated Machine Learning - AI for cool stuff`**
 
-![I am William, a PhD in Federated Machine Learning - Welcome to my GitHub!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### I am Will, PhD in Federated Machine Learning - Welcome to my GitHub!
 
-I am an industrial PhD working with Federated Learning for Connected Vehicles. I am generally interested in anything that has to do with AI but special interests include AI Hardware, AI in Space, and AI in Medicine. 
+I am an industrial PhD working with Federated Learning for Connected Vehicles. I am generally interested in anything that has to do with AI but special interests include AI Hardware, AI in Space, and AI in Medicine. I personally enjoy various types of music. 
 
 Feel free to explore my repositories.  
 
