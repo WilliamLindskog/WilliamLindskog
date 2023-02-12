@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, I am glad you're here!
 
-<!--
-**WilliamLindskog/WilliamLindskog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am William, a PhD in Federated Machine Learning - Welcome to my GitHub!
 
-Here are some ideas to get you started:
+![I am William, a PhD in Federated Machine Learning - Welcome to my GitHub!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an industrial PhD working with Federated Learning for Connected Vehicles. I am generally interested in anything that has to do with AI but special interests include AI Hardware, AI in Space, and AI in Medicine. 
+
+Feel free to explore my repositories.  
+
+Skills: Python, Data Science, Federated Learning, NVIDIA Flare
+
+- 🔭 I’m currently working on this profile page. 
+- 🌱 I’m currently learning about NVIDIA's Federated Learning framework - NVIDIA Flare, and C++. 
+- 👯 I’m looking to collaborate on AI for Medicine or Space Exploration. 
+- 🤔 I’m looking for help with Federated Learning and Labelling Techniques. 
+- 💬 Ask me about how to connect with Top AI Students in Germany. 
+- 📫 How to reach me: williamlindskog@protonmail.com
+- 😄 Pronouns: He / Him 
+- ⚡ Fun fact: Apart from programming languages I know Swedish, English, Spanish and German. 
