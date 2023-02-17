@@ -4,15 +4,14 @@
 
 # :penguin: William Lindskog
 
-**` PhD Federated Machine Learning - AI for cool stuff`**
+#### Hi, I am Will. PhD in Federated Machine Learning - Welcome to my GitHub!
 
-#### I am Will, PhD in Federated Machine Learning - Welcome to my GitHub!
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/WilliamLindskog)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/WilliamLindskog)
 [![Updated Badge](https://img.shields.io/github/last-commit/WilliamLindskog/WilliamLindskog/main?label=Last%20Updated&style=flat)]
 
 I am an industrial PhD working with Federated Learning for Connected Vehicles. I am generally interested in anything that has to do with AI but special interests include AI Hardware, AI in Space, and AI in Medicine. I personally enjoy various types of music. 
+
+
 
 Feel free to explore my repositories.  
 
