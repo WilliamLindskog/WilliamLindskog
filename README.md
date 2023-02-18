@@ -11,7 +11,9 @@
 
 I am an industrial PhD working with Federated Learning for Connected Vehicles. I am generally interested in anything that has to do with AI but special interests include AI Hardware, AI in Space, and AI in Medicine. I personally enjoy various types of music. 
 
+### 🤝 Connect with me on LinkedIn:
 
+<a href="https://www.linkedin.com/in/williamlindskog/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
 Feel free to explore my repositories.  
 
