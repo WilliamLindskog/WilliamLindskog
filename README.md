@@ -27,3 +27,9 @@ Skills: Python, Data Science, Federated Learning, NVIDIA Flare
 - 📫 How to reach me: williamlindskog@protonmail.com
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: Apart from programming languages I know Swedish, English, Spanish and German. 
+
+## 📈 GitHub Stats 
+
+[![William's github stats](https://github-readme-stats.vercel.app/api?username=WilliamLindskog)](https://github.com/WilliamLindskog)
+
+[![Visits](https://komarev.com/ghpvc/?username=WilliamLindskog&label=Github%20Profile%20Visits&color=f20707&logo=github&style=flat-square)](https://github.com/WilliamLindskog)
