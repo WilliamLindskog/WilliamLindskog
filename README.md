@@ -11,16 +11,18 @@
 
 I am an industrial PhD working with Federated Learning for Connected Vehicles. I am generally interested in anything that has to do with AI but special interests include AI Hardware, AI in Space, and AI in Medicine. I personally enjoy various types of music. 
 
-### 🤝 Connect with me on LinkedIn:
+### 🤝 Connect with me on LinkedIn: 
+<a href="https://www.linkedin.com/in/williamlindskog/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> 
+- I am active there most days. 
 
-<a href="https://www.linkedin.com/in/williamlindskog/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+## 🔭 I’m currently working on:
+- This profile page. 
+- Personalized Federated XGBoost for Tabular Data. 
 
-Feel free to explore my repositories.  
 
-Skills: Python, Data Science, Federated Learning, NVIDIA Flare
+## 🌱 I’m currently learning more about:
+- [NVIDIA Flare](https://nvflare.readthedocs.io/en/main/index.html)
 
-- 🔭 I’m currently working on this profile page. 
-- 🌱 I’m currently learning about NVIDIA's Federated Learning framework - NVIDIA Flare, and C++. 
 - 👯 I’m looking to collaborate on AI for Medicine or Space Exploration. 
 - 🤔 I’m looking for help with Federated Learning and Labelling Techniques. 
 - 💬 Ask me about how to connect with Top AI Students in Germany. 
