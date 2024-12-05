@@ -19,17 +19,6 @@ I am an industrial PhD working with Federated Learning for Connected Vehicles. I
 - This profile page. 
 - Personalized Federated XGBoost for Tabular Data. 
 
-
-## 🌱 I’m currently learning more about:
-- [NVIDIA Flare](https://nvflare.readthedocs.io/en/main/index.html)
-
-- 👯 I’m looking to collaborate on AI for Medicine or Space Exploration. 
-- 🤔 I’m looking for help with Federated Learning and Labelling Techniques. 
-- 💬 Ask me about how to connect with Top AI Students in Germany. 
-- 📫 How to reach me: williamlindskog@protonmail.com
-- 😄 Pronouns: He / Him 
-- ⚡ Fun fact: Apart from programming languages I know Swedish, English, Spanish and German. 
-
 ## 📈 GitHub Stats 
 
 [![William's github stats](https://github-readme-stats.vercel.app/api?username=WilliamLindskog)](https://github.com/WilliamLindskog)
