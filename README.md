@@ -14,7 +14,6 @@ I'm working as a Solutions Engineer at Flower Labs and like music of all sorts. 
 <a href="https://www.linkedin.com/in/williamlindskog/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> 
 
 ## 🔭 I’m currently working on:
-- WealthOS (intersection of financial, personal, and physical planning), inspired by [Blueprint by Bryan Johnson](https://protocol.bryanjohnson.com/)
 - Federated Benchmark for tabular data. 
 
 ## 📈 GitHub Stats 
