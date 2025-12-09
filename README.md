@@ -35,15 +35,7 @@ I'm a **Solutions Engineer at Flower Labs** with a passion for machine learning 
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilliamLindskog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamLindskog&layout=compact&theme=tokyonight)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WilliamLindskog&theme=tokyonight)
-  
-</div>
+[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamLindskog&show_icons=true)](https://github.com/WilliamLindskog)
 
 ---
 
