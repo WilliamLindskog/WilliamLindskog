@@ -15,6 +15,7 @@
 I'm a **Solutions Engineer at Flower Labs** with a passion for machine learning and building innovative AI applications. When I'm not coding, you'll find me exploring coffee bars, grilling, or diving into music of all genres.
 
 🎯 **Current Focus:**
+- 🏦 **WealthOS** - Integrating financial, personal, and physical planning (inspired by [Bryan Johnson's Blueprint](https://protocol.bryanjohnson.com/))
 - 📊 **Federated Benchmark** - Developing benchmarks for tabular data in federated learning
 
 ---
@@ -35,13 +36,12 @@ I'm a **Solutions Engineer at Flower Labs** with a passion for machine learning 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamLindskog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamLindskog&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WilliamLindskog&theme=tokyonight)](https://github.com/WilliamLindskog)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilliamLindskog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamLindskog&layout=compact&theme=tokyonight)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WilliamLindskog&theme=tokyonight)
   
 </div>
 
