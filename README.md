@@ -15,7 +15,6 @@
 I'm a **Solutions Engineer at Flower Labs** with a passion for machine learning and building innovative AI applications. When I'm not coding, you'll find me exploring coffee bars, grilling, or diving into music of all genres.
 
 🎯 **Current Focus:**
-- 🏦 **WealthOS** - Integrating financial, personal, and physical planning (inspired by [Bryan Johnson's Blueprint](https://protocol.bryanjohnson.com/))
 - 📊 **Federated Benchmark** - Developing benchmarks for tabular data in federated learning
 
 ---
@@ -35,7 +34,7 @@ I'm a **Solutions Engineer at Flower Labs** with a passion for machine learning 
 
 ### 📊 GitHub Analytics
 
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamLindskog&show_icons=true)](https://github.com/WilliamLindskog)
+![](https://github-readme-stats.vercel.app/api?username=WilliamLindskog)
 
 ---
 
