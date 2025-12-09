@@ -1,59 +1,24 @@
-<div align="center">
-  <img src="/Files/beach.jpg" alt="Header" width="100%">
-</div>
+![Top Doodle](/Files/beach.jpg)
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=50&center=true&vCenter=true&width=800&height=80&lines=Hi+There!+👋+I'm+William;Machine+Learning+PhD;Solutions+Engineer+at+Flower+Labs;Let's+Build+Something+Amazing!)](https://github.com/WilliamLindskog)
-  
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hi+There+%F0%9F%91%8B+My+Name+is+William.;I+Am+a+Machine+Learning+PhD.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/WilliamLindskog)
 
----
 
-### 👨‍💻 About Me
+#### :penguin: Hi, I am Will - Welcome to my GitHub!
 
-I'm a **Solutions Engineer at Flower Labs** with a passion for machine learning and building innovative AI applications. When I'm not coding, you'll find me exploring coffee bars, grilling, or diving into music of all genres.
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/WilliamLindskog)
+[![Updated Badge](https://img.shields.io/github/last-commit/WilliamLindskog/WilliamLindskog/main?label=Last%20Updated&style=flat)]
 
-🎯 **Current Focus:**
-- 📊 **Federated Benchmark** - Developing benchmarks for tabular data in federated learning
+I'm working as a Solutions Engineer at Flower Labs and like music of all sorts. When I'm not at work, you'll find me in coffee bars or grilling. I enjoy working with AI and want to create cool applications. 
 
----
+### 🤝 Connect with me on LinkedIn: 
+<a href="https://www.linkedin.com/in/williamlindskog/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> 
 
-### 🛠️ Tech Stack & Tools
+## 🔭 I’m currently working on:
+- WealthOS (intersection of financial, personal, and physical planning), inspired by [Blueprint by Bryan Johnson](https://protocol.bryanjohnson.com/)
+- Federated Benchmark for tabular data. 
 
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Federated Learning](https://img.shields.io/badge/Federated_Learning-00ADD8?style=for-the-badge)
+## 📈 GitHub Stats 
 
-</div>
+[![William's github stats](https://github-readme-stats.vercel.app/api?username=WilliamLindskog)](https://github.com/WilliamLindskog)
 
----
-
-### 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=WilliamLindskog)
-
----
-
-### 🤝 Let's Connect
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamlindskog/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WilliamLindskog)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=WilliamLindskog&label=Profile%20Views&color=016EEA&style=for-the-badge)
-  
-  ⭐️ From [WilliamLindskog](https://github.com/WilliamLindskog) | Open to collaboration and interesting projects!
-  
-</div>
+[![Visits](https://komarev.com/ghpvc/?username=WilliamLindskog&label=Github%20Profile%20Visits&color=f20707&logo=github&style=flat-square)](https://github.com/WilliamLindskog)
